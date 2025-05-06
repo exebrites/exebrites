@@ -6,7 +6,11 @@ Desarrollador Full Stack con pasión por la tecnología, proactivo y orientado a
 - Mira mi portafolio en [mi pagina personal!](https://exequielbritesportfolio.netlify.app/)
 - Puedes contactarme en [Linkedin](https://www.linkedin.com/in/exequiel-brites-115b03239/)
 - Me interesa  la ingenieria de datos y ciencia de datos
-
+## :computer: Proyectos
+- **Sistema de gestión de pedidos oliva - SGPO** : Desarrollo de una aplicación web para la gestión integral de pedidos en una imprenta,
+abarcando desde la carga del diseño hasta la entrega del producto final.
+- **Library Manager System (LMS)**: Desarrollo de un sistema de gestión de bibliotecas con funcionalidades completas para
+registrar libros, gestionar préstamos y devoluciones, y llevar un control del historial de usuarios.
 ## :computer: Tecnologias
 ### 💻 Lenguajes de Programación
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

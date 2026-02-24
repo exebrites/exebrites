@@ -11,7 +11,7 @@
 - 🧠 Enfocado en buenas prácticas, clean code y modelado de dominio
 - 📚 Aprendiendo y mejorando continuamente en el ecosistema Spring
 
-🌐 Portafolio: https://exequielbritesportfolio.netlify.app/  
+🌐 Portafolio: [https://exequielbritesportfolio.netlify.app/ ](https://exequielbrites-java-backend.netlify.app/) 
 💼 LinkedIn: https://www.linkedin.com/in/exequiel-brites-115b03239/
 
 ---

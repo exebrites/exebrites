@@ -12,6 +12,7 @@
 - 📚 Aprendiendo y mejorando continuamente en el ecosistema Spring
 
 🌐 Portafolio: [https://exequielbritesportfolio.netlify.app/ ](https://exequielbrites-java-backend.netlify.app/) 
+<br>
 💼 LinkedIn: https://www.linkedin.com/in/exequiel-brites-115b03239/
 
 ---

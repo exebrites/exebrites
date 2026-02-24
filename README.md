@@ -17,6 +17,26 @@
 ---
 
 ## 🧩 Proyectos Destacados
+### 🧾 ArgentaFact – Sistema Integral de Facturación
+
+Aplicación backend orientada a la gestión de facturación y operaciones comerciales.
+
+**Tecnologías utilizadas:**
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+- Maven
+- Arquitectura en capas
+
+**Responsabilidades y funcionalidades:**
+- Desarrollo del backend con Spring Boot.
+- Implementación de APIs REST para operaciones de negocio.
+- Modelado de entidades y relaciones con JPA/Hibernate.
+- Diseño y estructuración de la base de datos en PostgreSQL.
+- Aplicación de arquitectura en capas para la separación de responsabilidades.
+- Implementación de la lógica de negocio y validaciones del sistema.
+- Ejecución de pruebas funcionales sobre los flujos principales.
+---
 
 ### 📚 Library Manager System (LMS)
 Aplicación de escritorio desarrollada con:
